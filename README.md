@@ -34,3 +34,6 @@ The limitations to this dataset are the limited variables that tie more specific
 - What are some other possible tables and/or graphs that we could create? <br />
 Another possible table is to analyze the outcomes by country/region. Certain countries might have a higher success rate than others depending on the consumer culture for plays. A pivot table can be created, filtered by parent category theatre, with countries in rows, outcomes in columns, and counts of outcomes in values. <br />
 Another graph that one can create is the relationship between outcomes and crowdfunding event duration. The length of the event can significantly impact the success rate. We can create a scattered plot to demonstrate clusters and identify patterns of the two variables. 
+
+## Note for Submission
+I have created a new separate file for this week's challenge with all other sheets removed excepts ones mentioned for this assignment. I have added a separate file names *Kickstarter_Module.xlsx* in the repository with all the work I've completed by following this week's module.
