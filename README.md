@@ -8,13 +8,14 @@ Performing analysis on Kickstarter data to uncover trends between the launch day
 
 ### Analysis of Outcomes Based on Launch Date
 Based on Launch Date, we can see that the number of successful events peaks in May at 111. The overall number of successful Kickstarter events in the theatre category is higher during the summer months than other times of the year with June, July, and August having the second to the fourth highest, with 100, 87, and 72 counts, respectively. <br />
-![Theatre_Outcomes based on Launch Date](/Users/yutinggao/Desktop/DA Boot Camp/Crowdfunding Analysis/Theatre_Outcomes_vs_Launch.png)<br />
+![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/98621924/155862372-5fd2a46b-1d72-484d-8ca1-8440a773c7d7.png)<br />
 Going a step further, by isolating the plays from the theatre category, we can identify that it has a similar trend as the overall theatre parent category with the highest success in fundraising events during the summer months. <br />
-![Plays Outcomes based on Launch Date](/Users/yutinggao/Desktop/DA Boot Camp/Crowdfunding Analysis/Plays_Outcomes_vs_Launch.png)
+![Plays_Outcomes_VS_Launch](https://user-images.githubusercontent.com/98621924/155862378-a3d0bdc8-36d7-40eb-9151-c4ac5674ba2e.png)
+
 
 ### Analysis of Outcomes Based on Goals
 Through categorizing goals by 5,000s from less than 1,000 to over 50,000, we analyzed the number of events in each outcome for all plays in the dataset. The highest success rate of 76% with 141 successfull crowdfunding events out of the total 186 events with goals of raising less than $1,000. The second-highest success rate is in the goal $1,000 to $4,999 category of 73%, accounting for 51% of all 1049 Kickstarter events in the plays category with 388 out of 534 in the goal category. <br />
-![Outcomes based on Goals](/Users/yutinggao/Desktop/DA Boot Camp/Crowdfunding Analysis/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/98621924/155862387-97bca0b2-b02e-4f47-8381-8a18b6eeb057.png)
 
 ### Challenges and Difficulties Encountered
 I did not run into any challenges and difficulties during this analysis. However, one potential issue can be that the data provided might not be clean and require the analysts to take further steps to ensure all data are formated properly and ready for analysis. An example of formating error can be the currency of the goal and pledged crowdfunding values. Since this dataset includes data from different nations, if not properly calculated, large currency differences can significantly impact the accuracy and reliability of the analysis. 
